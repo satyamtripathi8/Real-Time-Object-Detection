@@ -28,7 +28,7 @@ The In-cab Smart Guidance and Support System for Dragline Operators is a compreh
 
 ## Demo Program
 
-Check out our [demo program](demo_program/) showcasing real-time object detection using TensorFlow and OpenCV for dragline safety.
+Check out our [demo program](https://github.com/satyamtripathi8/Real-Time-Object-Detection/blob/main/Real-time%20Object%20Detection%20with%20TensorFlow%20and%20OpenCV%20for%20Dragline%20Safety.ipynb) showcasing real-time object detection using TensorFlow and OpenCV for dragline safety.
 
 ## Getting Started
 
